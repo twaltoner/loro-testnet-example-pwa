@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "@Twaltoner+=validator/pwa-test-12",
+  "name": "@Twaltoner_test_validator/pwa-test-12",
   "version": "0.1.26",
   "repository": "https://github.com/twaltoner/loro-testnet-example-pwa",
   "scripts": {
